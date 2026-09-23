@@ -1,14 +1,16 @@
 [![ORGAN-I: Theory](https://img.shields.io/badge/ORGAN--I-Theory-1a237e?style=flat-square)](https://github.com/organvm-i-theoria)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
-[![Status: Planning](https://img.shields.io/badge/status-planning-lightgrey?style=flat-square)]()
+[![Status: Parked](https://img.shields.io/badge/status-parked-inactive?style=flat-square)]()
 
 # Collective Persona Operations
+
+> **PARKED / NON-SHIPPABLE:** This repository is currently classified as a planning-phase / docs-only shell (`PARKED`). No release or active deployment endpoint is defined for this repository.
 
 [![CI](https://github.com/organvm-i-theoria/collective-persona-operations/actions/workflows/ci.yml/badge.svg)](https://github.com/organvm-i-theoria/collective-persona-operations/actions/workflows/ci.yml)
 [![Coverage](https://img.shields.io/badge/coverage-pending-lightgrey)](https://github.com/organvm-i-theoria/collective-persona-operations)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/organvm-i-theoria/collective-persona-operations/blob/main/LICENSE)
 [![Organ I](https://img.shields.io/badge/Organ-I%20Theoria-8B5CF6)](https://github.com/organvm-i-theoria)
-[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/organvm-i-theoria/collective-persona-operations)
+[![Status](https://img.shields.io/badge/status-parked-inactive)](https://github.com/organvm-i-theoria/collective-persona-operations)
 [![Markdown](https://img.shields.io/badge/lang-Markdown-informational)](https://github.com/organvm-i-theoria/collective-persona-operations)
 
 
